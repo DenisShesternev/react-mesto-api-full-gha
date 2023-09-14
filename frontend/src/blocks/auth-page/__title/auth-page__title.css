@@ -1,0 +1,20 @@
+.auth-page__title  {
+    margin: 20px 0 50px 0;
+    font-size: 24px;
+    font-weight: 900;
+    padding-top: 33px;
+    color: #fff;
+    text-align: center;
+    max-width: 100%;
+    padding: 0;
+  
+  }
+  
+  @media screen and (max-width: 475px) {
+    .auth-page__title  {
+      font-size: 18px;
+      line-height: 22px;
+      max-width: 238px;
+      padding-bottom: 75px;
+    }
+  }

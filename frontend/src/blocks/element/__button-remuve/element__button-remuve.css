@@ -1,0 +1,17 @@
+.element__button-remuve {
+   background-image: url("../../../images/element__button-remuve.svg");
+   background-position: center;
+   background-color: transparent;
+   min-width: 18px;
+   height: 19px;
+   border: none;
+   cursor: pointer;
+   transition: opacity 0.9s ease;
+   position: absolute;
+   top: 20px;
+   right: 20px;
+}
+    
+.element__button-remuve:hover {
+        opacity: 0.5;
+}

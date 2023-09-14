@@ -1,0 +1,12 @@
+.auth-page__link {
+    text-decoration: none;
+    transition: opacity 0.3s ease;
+    font-size: 14px;
+    color: rgba(169, 169, 169, 1);
+    text-align: center;
+    cursor: pointer;
+}
+
+.auth-page__link:hover {
+    opacity: 0.6;
+}
