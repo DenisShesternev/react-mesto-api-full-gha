@@ -109,5 +109,5 @@ class Api {
 }
 
 export const api = new Api({
-    url: 'http://localhost:3005',
+    url: 'http://localhost:3000',
 })
