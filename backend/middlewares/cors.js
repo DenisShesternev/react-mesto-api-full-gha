@@ -1,6 +1,6 @@
 const allowedCors = [
-  'https://shesternev.denisstudent.nomoredomainsicu.ru/',
-  'http://shesternev.denisstudent.nomoredomainsicu.ru/',
+  'https://shesternev.denisstudent.nomoredomainsicu.ru',
+  'http://shesternev.denisstudent.nomoredomainsicu.ru',
   'http://localhost:3000',
 ];
 
