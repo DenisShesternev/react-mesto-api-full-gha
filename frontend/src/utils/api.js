@@ -110,5 +110,5 @@ class Api {
 
 export const api = new Api({
     // url: 'http://localhost:3001',
-    url: 'https://api.shesternev.denisstudent.nomoredomainsicu.ru/',
+    url: 'https://api.shesternev.denisstudent.nomoredomainsicu.ru',
 })
